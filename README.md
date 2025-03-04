@@ -21,13 +21,16 @@ It leverages GPT-SW3 (AI Sweden) hosted on Hugging Face to process natural langu
 
 ## Screenshots
 Landing page
+
 ![App Interface](screenshots/startsida.png)
 
 Generating playlist...
+
 ![Generating...](screenshots/generating.png)
 
 
 All done and ready to be opened in the Spotify app
+
 ![Done](screenshots/klart.png)
 
 A generated playlist in the Spotify web app. 
