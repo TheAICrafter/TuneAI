@@ -24,6 +24,10 @@ It leverages GPT-SW3 (AI Sweden) hosted on Hugging Face to process natural langu
 ![Generating...](screenshots/generating.png)
 ![Done](screenshots/klart.png)
 
+And here's how a generated playlist looks in the Spotify web app. The user request was simply "Eminem och Miriam bryant"(forgot a capital B in her last name). 
+A playlist of 30 songs shuffled and ready to be enjoyed at any time, it really is as simple as that! 
+![Spotify](screenshots/spotify.png)
+
 ## Code Snippets (Illustrative)
 ### Example: Sending the User’s Prompt to Hugging Face API
 ```python
