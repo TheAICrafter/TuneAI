@@ -20,12 +20,20 @@ It leverages GPT-SW3 (AI Sweden) hosted on Hugging Face to process natural langu
 - **Performance Optimizations**: Batch processing, Redis caching, asynchronous API calls, and keep-alive scripts.
 
 ## Screenshots
+Landing page
 ![App Interface](screenshots/startsida.png)
+
+Generating playlist...
 ![Generating...](screenshots/generating.png)
+
+
+All done and ready to be opened in the Spotify app
 ![Done](screenshots/klart.png)
 
-And here's how a generated playlist looks in the Spotify web app. The user request was simply "Eminem och Miriam bryant"(forgot a capital B in her last name). 
-A playlist of 30 songs shuffled and ready to be enjoyed at any time, it really is as simple as that! 
+A generated playlist in the Spotify web app. 
+The user request was "Eminem och Miriam bryant"(forgot a capital B in her last name). 
+A playlist of 30 songs shuffled and ready to be enjoyed at any time, it really is as simple as that!
+
 ![Spotify](screenshots/spotify.png)
 
 ## Code Snippets (Illustrative)
